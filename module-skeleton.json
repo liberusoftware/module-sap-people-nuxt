@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-people-nuxt",
+  "capabilityKey": "planned:sap:people",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-sap-people-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/sap/nextjs/people.md",
+  "presentationPlan": "projects/sap/nuxt/people.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
